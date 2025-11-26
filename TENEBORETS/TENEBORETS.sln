@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TENEBORETS", "TENEBORETS\TENEBORETS.csproj", "{CDDADEB5-078B-4C84-8F19-246EC0363E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Debug|x64.ActiveCfg = Debug|x64
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Debug|x64.Build.0 = Debug|x64
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Release|x64.ActiveCfg = Release|x64
+		{CDDADEB5-078B-4C84-8F19-246EC0363E94}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA29858F-067D-4188-B1C1-58E5F426DAD2}
+	EndGlobalSection
+EndGlobal

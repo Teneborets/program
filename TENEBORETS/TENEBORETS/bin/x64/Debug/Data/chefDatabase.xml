@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ChefDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Registrations>
+    <RegistrationRecord>
+      <FullName>Гусаров Кирилл Андреевич</FullName>
+      <Email>zefir1888@gmail.com</Email>
+      <Phone>89048304761</Phone>
+      <ExperienceLevel>Опытный</ExperienceLevel>
+      <CourseName>Базовая кулинария</CourseName>
+      <NeedsOnlineAccess>true</NeedsOnlineAccess>
+      <RegisteredAt>2025-11-26T15:51:50.0884144+04:00</RegisteredAt>
+    </RegistrationRecord>
+  </Registrations>
+  <Admins>
+    <AdminAccount>
+      <Login>admin</Login>
+      <PasswordHash>Cw1cLnweY6xjkkjlf6HYJp+Ne8vjSD9xS2WGE+7go48=</PasswordHash>
+    </AdminAccount>
+  </Admins>
+</ChefDatabase>

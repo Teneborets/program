@@ -1,0 +1,10 @@
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\bin\x64\Debug\TENEBORETS.exe.config
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\bin\x64\Debug\TENEBORETS.exe
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\bin\x64\Debug\TENEBORETS.pdb
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.csproj.AssemblyReference.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.Регестрация.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.Properties.Resources.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.csproj.GenerateResource.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.csproj.CoreCompileInputs.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.exe
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\TENEBORETS\TENEBORETS\obj\x64\Debug\TENEBORETS.pdb
